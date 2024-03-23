@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpeedyWheelsRentals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db4d81d247dbf04ae66fbd9daf0011c96a3c0a1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpeedyWheelsRentals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpeedyWheelsRentals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
