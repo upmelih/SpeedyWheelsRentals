@@ -144,3 +144,6 @@ C:\Users\melih\OneDrive\Desktop\New folder\SpeedyWheelsRentals\SpeedyWheelsRenta
 C:\Users\melih\OneDrive\Desktop\New folder\SpeedyWheelsRentals\SpeedyWheelsRentals\obj\Debug\net8.0\SpeedyWheelsRentals.pdb
 C:\Users\melih\OneDrive\Desktop\New folder\SpeedyWheelsRentals\SpeedyWheelsRentals\obj\Debug\net8.0\SpeedyWheelsRentals.genruntimeconfig.cache
 C:\Users\melih\OneDrive\Desktop\New folder\SpeedyWheelsRentals\SpeedyWheelsRentals\obj\Debug\net8.0\ref\SpeedyWheelsRentals.dll
+C:\Users\Numan\OneDrive\Desktop\SpeedyWheelsRentals\SpeedyWheelsRentals\obj\Debug\net8.0\SpeedyWheelsRentals.dll
+C:\Users\Numan\OneDrive\Desktop\SpeedyWheelsRentals\SpeedyWheelsRentals\obj\Debug\net8.0\refint\SpeedyWheelsRentals.dll
+C:\Users\Numan\OneDrive\Desktop\SpeedyWheelsRentals\SpeedyWheelsRentals\obj\Debug\net8.0\SpeedyWheelsRentals.pdb

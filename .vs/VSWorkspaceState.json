@@ -2,8 +2,16 @@
   "ExpandedNodes": [
     "",
     "\\SpeedyWheelsRentals",
-    "\\SpeedyWheelsRentals\\Models"
+    "\\SpeedyWheelsRentals\\Areas",
+    "\\SpeedyWheelsRentals\\Areas\\Identity",
+    "\\SpeedyWheelsRentals\\Areas\\Identity\\Pages",
+    "\\SpeedyWheelsRentals\\Views",
+    "\\SpeedyWheelsRentals\\Views\\Shared",
+    "\\SpeedyWheelsRentals\\wwwroot",
+    "\\SpeedyWheelsRentals\\wwwroot\\lib",
+    "\\SpeedyWheelsRentals\\wwwroot\\lib\\bootstrap",
+    "\\SpeedyWheelsRentals\\wwwroot\\lib\\bootstrap\\dist"
   ],
-  "SelectedNode": "\\SpeedyWheelsRentals\\Models\\ErrorViewModel.cs",
+  "SelectedNode": "\\SpeedyWheelsRentals\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
   "PreviewInSolutionExplorer": false
 }
